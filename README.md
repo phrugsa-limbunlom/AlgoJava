@@ -1,1 +1,1 @@
-## AlgoJava 
+## Algorithms with Java 
